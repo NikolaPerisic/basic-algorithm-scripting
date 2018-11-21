@@ -79,12 +79,12 @@
       
       
       
-###15. Truncate String:
+### 15. Truncate String:
       Truncate a string if its longer than 
       the maximum string length (second argument)
       
       
       
-###16. Where do I belong:
+### 16. Where do I belong:
       This function sorts the array and returns the lowest
       index at which the value from argument should be inserted
